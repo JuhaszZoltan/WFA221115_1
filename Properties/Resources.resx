@@ -124,7 +124,7 @@
     <value>Server=.\SQLExpress;AttachDbFilename=C:\MyFolder\MyDataFile.mdf;Database=dbname;Trusted_Connection=Yes;</value>
   </data>
   <data name="DataBasePath" xml:space="preserve">
-    <value>C:\\Users\\juhaszz.admin\\source\\repos\\WFA221115_1\\Resources\\test.mdf</value>
+    <value>C:\Users\juhaszz.admin\source\repos\WFA221115_1\Resources\test.mdf</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="test" type="System.Resources.ResXFileRef, System.Windows.Forms">

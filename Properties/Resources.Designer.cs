@@ -79,7 +79,7 @@ namespace WFA221115_1.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C:\\Users\\juhaszz.admin\\source\\repos\\WFA221115_1\\Resources\\test.mdf.
+        ///   Looks up a localized string similar to C:\Users\juhaszz.admin\source\repos\WFA221115_1\Resources\test.mdf.
         /// </summary>
         internal static string DataBasePath {
             get {
